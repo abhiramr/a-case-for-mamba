@@ -88,7 +88,7 @@ Mamba is a possible drop-in replacement for Conda and is faster while being very
 The dev-team could possibly incorporate it in its day-to-day usage and consultants can use it to try out different combinations of compatible package versions on their local a lot more easily. 
 
 
-References
+### References
 
 [0] https://github.com/mamba-org/mamba
 
